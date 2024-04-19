@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: 航空母舰
 description: Bookmark this to keep an eye on my project updates!
+markdown: rdiscount
